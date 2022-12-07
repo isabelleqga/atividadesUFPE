@@ -1,0 +1,81 @@
+
+class Book {
+    constructor(title, description, author) {
+        this.title = title;
+        this.description = description;
+        this.author = author;
+    }
+}
+            
+class Library {
+    constructor() {
+        this.books = [];
+    }
+    addBook(bookInfo) { //adicionar
+        let book = new Book(bookInfo['title'], bookInfo['description'], bookInfo['author'])
+        this.books.push(book)
+        return book
+    }
+    getBooks() { //listar todos
+        return this.books
+    }
+    removeBookById(id) {
+        const temp = []
+        // for (let azinho in this.books) {
+        //     if (azinho.title !== id) {
+        //         temp.push(azinho)
+        //     }
+        // }
+        for (let i = 0; i < this.books.length; i++) {
+            if (this.books[i]['title'] != id) {
+                temp.push(this.books[i])
+            }
+        }
+        this.books = temp
+    }
+    getBookById(id) {
+        let encontrado = false;
+        for (let i = 0; i < this.books.length; i++) {
+            if (this.books[i]['title'] == id) {
+                encontrado = true
+                console.log(this.books[i])
+                return
+            }
+        }
+        if (encontrado == false){
+            console.log("Livro inexistente.")
+        }
+    }
+    updateBookById(id, info) {
+        let encontrado = false;
+        for (let i = 0; i < this.books.length; i++) {
+            if (this.books[i]['title'] == id) {
+                this.books[i]['title'] = info['title'];
+                this.books[i]['description'] = info['description'];
+                this.books[i]['author'] = info['author'];
+                     
+                encontrado = true
+                return
+            }
+        }
+        if (encontrado == false){
+            console.log("Livro inexistente.")
+        }
+    }
+}
+
+const library = new Library()
+library.addBook({title: 'Revolução dos Bichos', description: 'Um conto de fadas', author: 'George Orwell'})
+library.addBook({title: '1984', description: 'Wisnton odeia ratos', author: 'George Orwell'})
+library.addBook({title: 'Admirável mundo novo', description: 'Clássico redpill', author: 'A.L. Huxley'})
+
+console.log(library.getBooks())
+
+library.removeBookById('1984')
+
+library.getBookById('Admirável mundo novo')
+library.getBookById('Chapéu velho')
+
+library.updateBookById('Revolução dos Bichos', {title: 'Revolução dos Bichos', description: 'Um conto de fadas moderno', author: 'George Orwell'})
+
+console.log(library.getBooks())
