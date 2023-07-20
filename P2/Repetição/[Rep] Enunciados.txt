@@ -1,0 +1,24 @@
+(1) Desenvolva um algoritmo que some todos os números inteiros 
+compreendidos entre 1 e 10 (inclusive).
+
+(2) Desenvolva um algoritmo que receba dois números inteiros positivos A e B. 
+Exiba na tela todos os números inteiros compreendidos entre A e B, excluindo 
+os próprios A e B. Suponha que o usuário respeite o enunciado e insira 
+valores válidos para A e B.
+
+
+(3) Desenvolva um algoritmo que peça para o usuário inserir vários números 
+inteiros. O algoritmo deverá contabilizar a quantidade de números positivos 
+informados. Caso o usuário digite 0, o algoritmo deve mostrar quantidade 
+contabilizada e encerrar.
+
+
+(4) Desenvolva um algoritmo que peça ao usuário que insira dois números inteiros 
+positivos A e B, no qual A deve ser menor que B (supõe-se que o usuário irá 
+respeitar esse enunciado). O algoritmo deve mostrar, na tela, todos os números 
+ímpares compreendidos entre A e B (inclusive).
+
+
+(5) Desenvolva um algoritmo que receba um número N e informe se N é um número 
+primo, ou não. A saber: um número primo é um inteiro positivo que só pode ser 
+dividido por ele mesmo e por um, apenas.

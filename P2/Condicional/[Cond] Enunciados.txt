@@ -1,0 +1,19 @@
+(1) Faça um programa que receba dois números e mostre o maior deles. 
+Caso eles sejam iguais, deve-se mostrar a mensagem "Os números são iguais".
+
+(2) Desenvolva um algoritmo que receba três números. O algoritmo 
+deve imprimir "Condição satisfeita", na tela, caso o primeiro dado 
+inserido seja maior do que os outros dois (o primeiro não pode ser 
+igual a nenhum). Caso contrário, deve ser impressa a mensagem: "Erro".
+
+(3) Faça um programa que receba um número inteiro e verifique se 
+esse número é par ou ímpar.
+
+(4) Desenvolva um algoritmo que receba dois números, calcule e mostre a 
+multiplicação entre eles, se ambos forem iguais. Caso o primeiro seja maior 
+que o segundo, mostre a subtração do primeiro pelo segundo. Caso contrário, 
+mostre a soma entre os dois.
+
+(5) Desenvolva um algoritmo que simule uma calculadora. Você deve dar a 
+opção de o usuário escolher entre: 1 - Somar; 2 - Subtrair; 3 - Multiplicar; 
+4 - Dividir. O usuário só conseguirá processar dois números inteiros por vez.
