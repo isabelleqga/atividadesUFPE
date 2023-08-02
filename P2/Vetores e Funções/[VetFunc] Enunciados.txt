@@ -1,0 +1,27 @@
+(1) Faça o design de uma função "maior" que receba dois números 
+[inteiros e positivos] e retorne o maior deles. Caso eles sejam 
+iguais, deve-se mostrar a mensagem "Os números são iguais".
+
+(2) Faça o design de uma função "isFirstGreater" que receba três 
+números. No final o programa deve imprimir "Condição satisfeita", 
+na tela, caso o primeiro dado inserido seja maior do que os outros dois 
+(o primeiro não pode ser igual a nenhum). Caso contrário, deve ser 
+impressa a mensagem: "Erro". OBS: use vetor/array de 3 posicoes 
+para armazenar os numeros lidos.
+
+(3) Faça o design de uma função "parImpar" que receba um número 
+inteiro e verifique se esse número é par ou ímpar.
+
+(4) Desenvolva um algoritmo que peça ao usuário que preencha os dados 
+de um vetor de 5 posições com valores reais quaisquer, desde que estejam 
+compreendidos entre 1 e 100 (suponha que o usuário irá respeitar o 
+enunciado). Depois, faça o design de uma função "dividir100" que divide 
+o conteúdo de cada posição do vetor por 100. Ao final, o programa deve 
+mostrar, na tela, o conteúdo de cada posição do vetor, dividido por 100.
+
+(5) Desenvolva um algoritmo que preencha um vetor numérico de 5 posições. 
+Após preencher todo o vetor, o usuário deve inserir uma chave de busca X. 
+Caso exista algum número igual a X, dentro do vetor, o algoritmo deve 
+mostrar, na tela, o índice da primeira posição na qual X foi encontrado. 
+Caso contrário, o algoritmo deve se encerrar com uma única mensagem, 
+dizendo "Chave não encontrada.".
