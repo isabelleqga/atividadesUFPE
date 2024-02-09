@@ -1,0 +1,11 @@
+001 Parafuso 3mm Peq     0050 0052
+002 Parafuso 4mm Peq     0050 0047
+003 Parafuso 5mm Peq     0050 0035
+004 Parafuso 3mm Med     0100 0043
+005 Parafuso 4mm Med     0100 0060
+006 Parafuso 5mm Med     0100 0004
+010 Bucha Pequena 3mm    0050 0028
+011 Bucha Media 4mm      0100 0107
+012 Prego pequeno        0200 0015
+013 Prego Médio          0200 0043
+014 Prego Grande         0200 0162

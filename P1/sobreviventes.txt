@@ -1,0 +1,290 @@
+Cumings; Mrs. John Bradley (Florence Briggs Thayer),female,38
+Heikkinen; Miss. Laina,female,26
+Futrelle; Mrs. Jacques Heath (Lily May Peel),female,35
+Johnson; Mrs. Oscar W (Elisabeth Vilhelmina Berg),female,27
+Nasser; Mrs. Nicholas (Adele Achem),female,14
+Sandstrom; Miss. Marguerite Rut,female,4
+Bonnell; Miss. Elizabeth,female,58
+Hewlett; Mrs. (Mary D Kingcome) ,female,55
+Beesley; Mr. Lawrence,male,34
+"McGowan; Miss. Anna ""Annie""",female,15
+Sloper; Mr. William Thompson,male,28
+Asplund; Mrs. Carl Oscar (Selma Augusta Emilia Johansson),female,38
+Nicola-Yarred; Miss. Jamila,female,14
+Laroche; Miss. Simonne Marie Anne Andree,female,3
+Devaney; Miss. Margaret Delia,female,19
+Harper; Mrs. Henry Sleeper (Myna Haxtun),female,49
+Faunthorpe; Mrs. Lizzie (Elizabeth Anne Wilkinson),female,29
+Rugg; Miss. Emily,female,21
+West; Miss. Constance Mirium,female,5
+Icard; Miss. Amelie,female,38
+Nye; Mrs. (Elizabeth Ramell),female,29
+Andersson; Miss. Erna Alexandra,female,17
+Bing; Mr. Lee,male,32
+Caldwell; Master. Alden Gates,male,0.83
+Dowdell; Miss. Elizabeth,female,30
+Sheerlinck; Mr. Jan Baptist,male,29
+Ilett; Miss. Bertha,female,17
+Backstrom; Mrs. Karl Alfred (Maria Mathilda Gustafsson),female,33
+Fortune; Miss. Mabel Helen,female,23
+Greenfield; Mr. William Bertram,male,23
+Doling; Mrs. John T (Ada Julia Bone),female,34
+Salkjelsvik; Miss. Anna Kristine,female,21
+Webber; Miss. Susan,female,32.5
+Nicola-Yarred; Master. Elias,male,12
+Madsen; Mr. Fridtjof Arne,male,24
+Weisz; Mrs. Leopold (Mathilde Francoise Pede),female,29
+Newsom; Miss. Helen Monypeny,female,19
+Nysten; Miss. Anna Sofia,female,22
+Hakkarainen; Mrs. Pekka Pietari (Elin Matilda Dolck),female,24
+"Andersson; Mr. August Edvard (""Wennerstrom"")",male,27
+Pears; Mrs. Thomas (Edith Wearne),female,22
+"Gilnagh; Miss. Katherine ""Katie""",female,16
+"Watt; Mrs. James (Elizabeth ""Bessie"" Inglis Milne)",female,40
+"Goldsmith; Master. Frank John William ""Frankie""",male,9
+Johnson; Miss. Eleanor Ileen,female,1
+Becker; Master. Richard F,male,1
+Kink-Heilmann; Miss. Luise Gretchen,female,4
+"Romaine; Mr. Charles Hallace (""Mr C Rolmane"")",male,45
+Pinsky; Mrs. (Rosa),female,32
+Andersen-Jensen; Miss. Carla Christine Nielsine,female,19
+Navratil; Master. Michel M,male,3
+Brown; Mrs. James Joseph (Margaret Tobin),female,44
+Lurette; Miss. Elise,female,58
+"Cohen; Mr. Gurshon ""Gus""",male,18
+Albimona; Mr. Nassef Cassem,male,26
+"Carr; Miss. Helen ""Ellen""",female,16
+Blank; Mr. Henry,male,40
+Cameron; Miss. Clear Annie,female,35
+Newell; Miss. Madeleine,female,31
+Honkanen; Miss. Eliina,female,27
+Bazzani; Miss. Albina,female,32
+Sunderland; Mr. Victor Francis,male,16
+Hoyt; Mr. Frederick Maxfield,male,38
+Mellors; Mr. William John,male,19
+Harris; Mrs. Henry Birkhardt (Irene Wallach),female,35
+Asplund; Miss. Lillian Gertrud,female,5
+"Collyer; Miss. Marjorie ""Lottie""",female,8
+Hamalainen; Mrs. William (Anna),female,24
+Beckwith; Mr. Richard Leonard,male,37
+Touma; Mrs. Darwis (Hanne Youssef Razi),female,29
+Cherry; Miss. Gladys,female,30
+Ward; Miss. Anna,female,35
+Parrish; Mrs. (Lutie Davis),female,50
+Asplund; Master. Edvin Rojj Felix,male,3
+Persson; Mr. Ernst Ulrik,male,25
+Graham; Mrs. William Thompson (Edith Junkins),female,58
+Bissette; Miss. Amelia,female,35
+Tornquist; Mr. William Henry,male,25
+Mellinger; Mrs. (Elizabeth Anne Maidment),female,41
+Andrews; Miss. Kornelia Theodosia,female,63
+Abbott; Mrs. Stanton (Rosa Hunt),female,35
+Dorking; Mr. Edward Arthur,male,19
+de Mulder; Mr. Theodore,male,30
+Hosono; Mr. Masabumi,male,42
+Connolly; Miss. Kate,female,22
+"Barber; Miss. Ellen ""Nellie""",female,26
+Bishop; Mrs. Dickinson H (Helen Walton),female,19
+Baxter; Mrs. James (Helene DeLaudeniere Chaput),female,50
+Allison; Master. Hudson Trevor,male,0.92
+Penasco y Castellana; Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo),female,17
+Francatelli; Miss. Laura Mabel,female,30
+Hays; Miss. Margaret Bechstein,female,24
+Ryerson; Miss. Emily Borie,female,18
+Nilsson; Miss. Helmina Josefina,female,26
+Kantor; Mrs. Sinai (Miriam Sternin),female,24
+Wick; Miss. Mary Natalie,female,31
+Spedden; Mrs. Frederic Oakley (Margaretta Corning Stone),female,40
+Slayter; Miss. Hilda Mary,female,30
+Caldwell; Mrs. Albert Francis (Sylvia Mae Harbaugh),female,22
+Young; Miss. Marie Grice,female,36
+Ball; Mrs. (Ada E Hall),female,36
+Goldsmith; Mrs. Frank John (Emily Alice Brown),female,31
+Hippach; Miss. Jean Gertrude,female,16
+Burns; Miss. Elizabeth Margaret,female,41
+Dahl; Mr. Karl Edwart,male,45
+Navratil; Master. Edmond Roger,male,2
+Fortune; Miss. Alice Elizabeth,female,24
+"Brown; Miss. Amelia ""Mildred""",female,24
+Smith; Miss. Marion Elsie,female,40
+"Coutts; Master. William Loch ""William""",male,3
+Bowerman; Miss. Elsie Edith,female,22
+Warren; Mrs. Frank Manley (Anna Sophia Atkinson),female,60
+Aubart; Mme. Leontine Pauline,female,24
+Harder; Mr. George Achilles,male,25
+Landergren; Miss. Aurora Adelia,female,22
+Bidois; Miss. Rosalie,female,42
+"Nakid; Miss. Maria (""Mary"")",female,1
+Holverson; Mrs. Alexander Oskar (Mary Aline Towner),female,35
+Buss; Miss. Kate,female,36
+Lehmann; Miss. Bertha,female,17
+Carter; Mr. William Ernest,male,36
+Jansson; Mr. Carl Olof,male,21
+Newell; Miss. Marjorie,female,23
+Sandstrom; Mrs. Hjalmar (Agnes Charlotta Bengtsson),female,24
+Trout; Mrs. William H (Jessie L),female,28
+Niskanen; Mr. Juha,male,39
+Richards; Master. William Rowe,male,3
+Minahan; Miss. Daisy E,female,33
+Sundman; Mr. Johan Julian,male,44
+Drew; Mrs. James Vivian (Lulu Thorne Christian),female,34
+Silven; Miss. Lyyli Karoliina,female,18
+Clarke; Mrs. Charles V (Ada Maria Winfield),female,28
+"Phillips; Miss. Kate Florence (""Mrs Kate Louise Phillips Marshall"")",female,19
+Pickard; Mr. Berk (Berk Trembisky),male,32
+Bjornstrom-Steffansson; Mr. Mauritz Hakan,male,28
+Louch; Mrs. Charles Alexander (Alice Adelaide Slow),female,42
+Carter; Miss. Lucile Polk,female,14
+Richards; Mrs. Sidney (Emily Hocking),female,24
+Hart; Mrs. Benjamin (Esther Ada Bloomfield),female,45
+Reynaldo; Ms. Encarnacion,female,28
+Dodge; Master. Washington,male,4
+Mellinger; Miss. Madeleine Violet,female,13
+Seward; Mr. Frederic Kimber,male,34
+Baclini; Miss. Marie Catherine,female,5
+Peuchen; Major. Arthur Godfrey,male,52
+Goldenberg; Mr. Samuel L,male,49
+Jalsevac; Mr. Ivan,male,29
+Toomey; Miss. Ellen,female,50
+Anderson; Mr. Harry,male,48
+Baclini; Miss. Helene Barbara,female,0.75
+West; Mrs. Edwy Arthur (Ada Mary Worth),female,33
+Jerwan; Mrs. Amin S (Marie Marthe Thuillard),female,23
+Hirvonen; Miss. Hildur E,female,2
+Turkula; Mrs. (Hedwig),female,63
+Bishop; Mr. Dickinson H,male,25
+Hoyt; Mrs. Frederick Maxfield (Jane Anne Forby),female,35
+"Coutts; Master. Eden Leslie ""Neville""",male,9
+Eustis; Miss. Elizabeth Mussey,female,54
+Maioni; Miss. Roberta,female,16
+Quick; Mrs. Frederick Charles (Jane Richards),female,33
+Lang; Mr. Fang,male,26
+Daly; Mr. Eugene Patrick,male,29
+McGough; Mr. James Robert,male,36
+Rothschild; Mrs. Martin (Elizabeth L. Barrett),female,54
+Lemore; Mrs. (Amelia Milley),female,34
+"Angle; Mrs. William A (Florence ""Mary"" Agnes Hughes)",female,36
+Perreault; Miss. Anne,female,30
+Hippach; Mrs. Louis Albert (Ida Sophia Fischer),female,44
+Ridsdale; Miss. Lucy,female,50
+Quick; Miss. Phyllis May,female,2
+Hart; Miss. Eva Miriam,female,7
+LeRoy; Miss. Bertha,female,30
+Frolicher; Miss. Hedwig Margaritha,female,22
+Crosby; Miss. Harriet R,female,36
+Beane; Mr. Edward,male,32
+Beane; Mrs. Edward (Ethel Clarke),female,19
+Davies; Master. John Morgan Jr,male,8
+Thayer; Mr. John Borland Jr,male,17
+"Leeni; Mr. Fahim (""Philip Zenni"")",male,22
+Ohman; Miss. Velin,female,22
+"Duff Gordon; Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")",female,48
+Taussig; Mrs. Emil (Tillie Mandelbaum),female,39
+de Messemaeker; Mrs. Guillaume Joseph (Emma),female,36
+Jonsson; Mr. Carl,male,32
+Harris; Mr. George,male,62
+Appleton; Mrs. Edward Dale (Charlotte Lamson),female,53
+"Flynn; Mr. John Irwin (""Irving"")",male,36
+Garside; Miss. Ethel,female,34
+Silvey; Mrs. William Baird (Alice Munger),female,39
+Jussila; Mr. Eiriik,male,32
+Christy; Miss. Julie Rachel,female,25
+Thayer; Mrs. John Borland (Marian Longstreth Morris),female,39
+Taussig; Miss. Ruth,female,18
+Frolicher-Stehli; Mr. Maxmillian,male,60
+Stephenson; Mrs. Walter Bertram (Martha Eustis),female,52
+"Duff Gordon; Sir. Cosmo Edmund (""Mr Morgan"")",male,49
+Jacobsohn; Mrs. Sidney Samuel (Amy Frances Christy),female,24
+"Homer; Mr. Harry (""Mr E Haven"")",male,35
+Daniel; Mr. Robert Williams,male,27
+Laroche; Mrs. Joseph (Juliette Marie Louise Lafargue),female,22
+Shutes; Miss. Elizabeth W,female,40
+Herman; Miss. Alice,female,24
+Becker; Miss. Marion Louise,female,4
+Kimball; Mr. Edwin Nelson Jr,male,42
+Nakid; Mr. Sahid,male,20
+Longley; Miss. Gretchen Fiske,female,21
+Barkworth; Mr. Algernon Henry Wilson,male,80
+Stahelin-Maeglin; Dr. Max,male,32
+Davis; Miss. Mary,female,28
+Sagesser; Mlle. Emma,female,24
+Baclini; Miss. Eugenie,female,0.75
+Harper; Mr. Henry Sleeper,male,48
+Simonius-Blumer; Col. Oberst Alfons,male,56
+Stanley; Miss. Amy Zillah Elsie,female,23
+Doling; Miss. Elsie,female,18
+Frauenthal; Dr. Henry William,male,50
+Lindqvist; Mr. Eino William,male,20
+Brown; Mrs. Thomas William Solomon (Elizabeth Catherine Ford),female,40
+Wilhelms; Mr. Charles,male,31
+Turja; Miss. Anna Sofia,female,18
+Cardeza; Mr. Thomas Drake Martinez,male,36
+Hassab; Mr. Hammad,male,27
+Madill; Miss. Georgette Alexandra,female,15
+Dick; Mr. Albert Adrian,male,31
+Karun; Miss. Manca,female,4
+Astor; Mrs. John Jacob (Madeleine Talmadge Force),female,18
+Silverthorne; Mr. Spencer Victor,male,35
+"Kelly; Mrs. Florence ""Fannie""",female,45
+Calderhead; Mr. Edward Pennington,male,42
+Cleaver; Miss. Alice,female,22
+"Mayne; Mlle. Berthe Antonine (""Mrs de Villiers"")",female,24
+Taylor; Mr. Elmer Zebley,male,48
+Endres; Miss. Caroline Louise,female,38
+"Troutt; Miss. Edwina Celia ""Winnie""",female,27
+"Harper; Miss. Annie Jessie ""Nina""",female,6
+Chambers; Mr. Norman Campbell,male,27
+Renouf; Mrs. Peter Henry (Lillian Jefferys),female,30
+Allen; Miss. Elisabeth Walton,female,29
+Lesurer; Mr. Gustave J,male,35
+"Ryerson; Miss. Susan Parker ""Suzette""",female,21
+Stranden; Mr. Juho,male,31
+Sinkkonen; Miss. Anna,female,30
+Wells; Miss. Joan,female,4
+Moor; Master. Meier,male,6
+Herman; Mrs. Samuel (Jane Laver),female,48
+Hamalainen; Master. Viljo,male,0.67
+Rothes; the Countess. of (Lucy Noel Martha Dyer-Edwards),female,33
+Barah; Mr. Hanna Assi,male,20
+Carter; Mrs. William Ernest (Lucile Polk),female,36
+Hogeboom; Mrs. John C (Anna Andrews),female,51
+Hocking; Mrs. Elizabeth (Eliza Needs),female,54
+Emanuel; Miss. Virginia Ethel,female,5
+Robert; Mrs. Edward Scott (Elisabeth Walton McMillan),female,43
+Ayoub; Miss. Banoura,female,13
+Dick; Mrs. Albert Adrian (Vera Gillespie),female,17
+Sjoblom; Miss. Anna Sofia,female,18
+Dean; Master. Bertram Vere,male,1
+Leader; Dr. Alice (Farnham),female,49
+Osman; Mrs. Mara,female,31
+Collyer; Mrs. Harvey (Charlotte Annie Tate),female,31
+Carter; Master. William Thornton II,male,11
+Thomas; Master. Assad Alexander,male,0.42
+Hedman; Mr. Oskar Arvid,male,27
+Chambers; Mrs. Norman Campbell (Bertha Griggs),female,33
+Hays; Mrs. Charles Melville (Clara Jennings Gregg),female,52
+Lulic; Mr. Nikola,male,27
+Moor; Mrs. (Beila),female,27
+Mallet; Master. Andre,male,1
+Stone; Mrs. George Nelson (Martha Evelyn),female,62
+Yasbeck; Mrs. Antoni (Selini Alexander),female,15
+Richards; Master. George Sibley,male,0.83
+Compton; Miss. Sara Rebecca,female,39
+Chip; Mr. Chang,male,32
+Serepeca; Miss. Augusta,female,30
+Lines; Miss. Mary Conover,female,16
+Aks; Mrs. Sam (Leah Rosen),female,18
+Wick; Mrs. George Dennick (Mary Hitchcock),female,45
+Daly; Mr. Peter Denis ,male,51
+Baclini; Mrs. Solomon (Latifa Qurban),female,24
+Swift; Mrs. Frederick Joel (Margaret Welles Barron),female,48
+Bystrom; Mrs. (Karolina),female,42
+Duran y More; Miss. Asuncion,female,27
+Johnson; Master. Harold Theodor,male,4
+Beckwith; Mrs. Richard Leonard (Sallie Monypeny),female,47
+Abelson; Mrs. Samuel (Hannah Wizosky),female,28
+"Najib; Miss. Adele Kiamie ""Jane""",female,15
+Potter; Mrs. Thomas Jr (Lily Alexenia Wilson),female,56
+Shelley; Mrs. William (Imanita Parrish Hall),female,25
+Graham; Miss. Margaret Edith,female,19
+Behr; Mr. Karl Howell,male,26

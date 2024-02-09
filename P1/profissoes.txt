@@ -1,0 +1,7 @@
+1 Artes
+2 Biologia
+3 Cantor
+4 Dentista
+5 Eletricista
+6 Fonoaudiologo
+7 Gastronomista

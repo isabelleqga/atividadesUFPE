@@ -1,0 +1,5 @@
+140 Centro de Educação
+750 Centro de Informática
+180 Centro de Tecnologia
+920 Centro de Biociências
+270 Centro de Ciências Exatas

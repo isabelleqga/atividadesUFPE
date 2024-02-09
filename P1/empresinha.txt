@@ -1,0 +1,6 @@
+0010 Maria Jose da Silva            F 09000
+0015 Jose Francisco de Lima Filho   M 13000
+0025 Ana Carolina Lopes             F 03000
+0005 Antonio Carlos dos Santos Neto M 24000
+0110 Joao Pedro Bastos              M 09500
+0350 Paula Maria Freitas            F 12300
